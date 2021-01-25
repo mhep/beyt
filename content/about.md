@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "BEYT"
 +++
 
 # Beyond the Terrestrial. 

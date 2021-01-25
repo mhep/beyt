@@ -1,5 +1,5 @@
 title = "BEYT."
-baseURL = "mhep.github.io/beyt/"
+baseURL = "https://mhep.github.io/beyt/"
 theme = "researcher"
 publishDir = "docs"
 disableKinds = ["taxonomy", "term"]

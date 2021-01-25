@@ -1,6 +1,7 @@
 title = "BEYT."
-baseURL = "/"
+baseURL = "mhep.github.io/beyt/"
 theme = "researcher"
+publishDir = "docs"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally

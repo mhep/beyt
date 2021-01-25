@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on BEYT.</title>
+    <link>mhep.github.io/beyt/</link>
+    <description>Recent content in About on BEYT.</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="mhep.github.io/beyt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>mhep.github.io/beyt/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mhep.github.io/beyt/about/</guid>
+      <description>Beyond the Terrestrial. Climate Change and the Blue Humanities  It is fitting, however, to think of the pelagic and abyssal seas—so rarely thought—as zones that compress, transform, unmoor, or render paradoxical the scales of time and distance, the taxonomies, and other conceptual navigation systems that work on land.1
+ BEYT is a Cambridge AHRC-DTP Research Group on Blue Humanities approaches to climate and its changes. Currently, we hold monthly reading group meetings on various themes around oceans and environmental change.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>mhep.github.io/beyt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>mhep.github.io/beyt/contact/</guid>
+      <description> Friederike Hartz: fh390@cam.ac.uk Maximilian Gregor Hepach: mgh44@cam.ac.uk  Sign up!  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,8 @@ title = "BEYT"
 
 BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Group on Blue Humanities approaches to climate and its changes. Currently, we hold monthly reading group meetings on various themes around oceans and environmental change.
 
+---
+
 ### Session 1: *What are oceans?* (January 2021)
 
 **Readings:**
@@ -29,6 +31,8 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 5. Imbler, S. (2020) [“Could Listening to the Deep Sea Help Save It? In the abyss, everyone can hear you scream.”](https://www.nytimes.com/2020/11/10/science/deep-sea-marine-biology-acoustics.html?referringSource=articleShare&fbclid=IwAR340MK6tpLPfXSTZ3nDsP7uO7Qg5BeqLKZhs8SU_-AxuY5-z1KIW1FZoL8) _The New York Times_.
 6. Lehman, J. (2020) [“Sea Change: The World Ocean Circulation Experiment and the Productive Limits of Ocean Variability.”](https://journals.sagepub.com/doi/10.1177/0162243920949932) _Science, Technology, & Human Values_, 0.
 7. Povinelli, E.A. (2020) [“The Ancestral Present of Oceanic Illusions: Connected and Differentiated in Late Toxic Liberalism.”](https://www.e-flux.com/journal/112/352823/the-ancestral-present-of-oceanic-illusions-connected-and-differentiated-in-late-toxic-liberalism/) _e-flux_, 112, 0.
+
+---
 
 ### Session 2:  *Knowing oceans* (February 2021)
 

@@ -20,6 +20,18 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 3. Mentz, S. (2018) “Blue Humanities.” In [_Posthuman Glossary_](https://www.bloomsbury.com/uk/posthuman-glossary-9781350030244/), (Eds, Braidotti, R. & Hlavajova, M.) Bloomsbury Academic, London/New York, NY, pp. 69-72.
 4. Mentz, S. (2019) [“Experience Is Better than Knowledge: Premodern Ocean Science and the Blue Humanities.”](https://doi.org/10.1353/con.2019.0029) _Configurations_, 27, 433-442.
 
+**Further readings**
+1. Aranda, J. & Kirksey, E. (2020) [“Toward a Glossary of the Oceanic Undead: A(mphibious) through F(utures).”](https://www.e-flux.com/journal/112/354965/toward-a-glossary-of-the-oceanic-undead-a-mphibious-through-f-utures/) _e-flux_, 112, 0.
+2. Bastian, M. (2020) [“Whale Falls, Suspended Ground, and Extinctions Never Known.”](https://read.dukeupress.edu/environmental-humanities/article/12/2/454/166998/Whale-Falls-Suspended-Ground-and-Extinctions-Never) _Environmental Humanities_, 12, 454-474.
+3. Billé, F. (Ed.) (2020) [_Voluminous States._](https://www.dukeupress.edu/voluminous-states) Duke University Press, Durham, NC/London.
+4. Hessler, S. (Ed.) (2018) [_Tidalectics. Imagining an Oceanic Worldview through Art and Science
+._](https://mitpress.mit.edu/books/tidalectics) MIT Press, Cambridge, MA.
+5. Imbler, S. (2020) [“Could Listening to the Deep Sea Help Save It? In the abyss, everyone can hear you scream.”](https://www.nytimes.com/2020/11/10/science/deep-sea-marine-biology-acoustics.html?referringSource=articleShare&fbclid=IwAR340MK6tpLPfXSTZ3nDsP7uO7Qg5BeqLKZhs8SU_-AxuY5-z1KIW1FZoL8) _The New York Times_.
+6. Lehman, J. (2020) [“Sea Change: The World Ocean Circulation Experiment and the Productive Limits of Ocean Variability.”](https://journals.sagepub.com/doi/10.1177/0162243920949932) _Science, Technology, & Human Values_, 0.
+7. Povinelli, E.A. (2020) [“The Ancestral Present of Oceanic Illusions: Connected and Differentiated in Late Toxic Liberalism.”](https://www.e-flux.com/journal/112/352823/the-ancestral-present-of-oceanic-illusions-connected-and-differentiated-in-late-toxic-liberalism/) _e-flux_, 112, 0.
+
+### Session 2:  *Knowing oceans* (February 2021)
+
 # [Sign up!](https://tinyurl.com/beyondterra)
 
 

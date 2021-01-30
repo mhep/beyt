@@ -36,6 +36,8 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 
 ### Session 2:  *Knowing oceans* (February 2021)
 
+![alt text](firstunderwaterselfie.png)
+
 # [Sign up!](https://tinyurl.com/beyondterra)
 
 

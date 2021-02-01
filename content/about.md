@@ -16,7 +16,7 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 
 ### Session 1: *What are oceans?* (January 2021)
 
-**Readings:**
+**Readings**
 1. Alaimo, S. (2017) “The Anthropocene at Sea. Temporality, paradox, compression.” In [_The Routledge Companion to the Environmental Humanities_](https://www.routledge.com/The-Routledge-Companion-to-the-Environmental-Humanities/Heise-Christensen-Niemann/p/book/9781138786745), (Eds, Heise, U.K., Christensen, J. & Niemann, M.) Routledge, London/New York, NY, pp. 153-162.
 2. Helmreich, S. (2011) [“Nature/culture/seawater.”](https://doi.org/10.1111/j.1548-1433.2010.01311.x) _American Anthropologist_, 113, 132-144.
 3. Mentz, S. (2018) “Blue Humanities.” In [_Posthuman Glossary_](https://www.bloomsbury.com/uk/posthuman-glossary-9781350030244/), (Eds, Braidotti, R. & Hlavajova, M.) Bloomsbury Academic, London/New York, NY, pp. 69-72.
@@ -35,6 +35,18 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 ---
 
 ### Session 2:  *Knowing oceans* (February 2021)
+
+**Readings**
+
+1. Crockford, S. (2020) [“Ocean Thinking: The Work of Ocean Sciences, Scientists, and Technologies in Producing the Sea as Space.”](http://dx.doi.org/10.3167/ares.2020.110105) _Environment and Society_, 11, 64-81.
+2. Laloë, A.-F. (2014) “‘Plenty of Weeds & Penguins’: Charting Oceanic Knowledge.” In [_Water Worlds: Human Geographies of the Ocean_](https://www.routledge.com/Water-Worlds-Human-Geographies-of-the-Ocean/Peters-Anderson/p/book/9781138248656), (Eds, Anderson, J. & Peters, K.) Ashgate, pp. 39-50.
+3. Jue, M. (2020) “Introduction: Thinking through Seawater.” In [_Wild Blue Media_](https://www.dukeupress.edu/wild-blue-media), Duke University Press, Durham, NC, pp. 1-33. 
+
+**Further readings**
+
+1. Reid, S. (2018) “Science and culture: Transitioning currents in times of climate change.” In [_Living with the sea: Knowledge, awareness and action_](https://www.routledge.com/Living-with-the-Sea-Knowledge-Awareness-and-Action/Brown-Peters/p/book/9780367586928), (Eds, Brown, M. & Peters, K.) Routledge, pp. 114-127.
+
+---
 
 ![alt text](firstunderwaterselfie.png)
 

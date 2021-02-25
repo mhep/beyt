@@ -34,6 +34,10 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 
 ---
 
+![alt text](coral-line.png)
+
+---
+
 ### Session 2:  *Knowing oceans* (February 2021)
 
 **Readings**
@@ -48,6 +52,21 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 
 ---
 
+![alt text](coral-line.png)
+
+---
+
+### Session 3: *More-than-oceans* (March 2021)
+
+**Readings**
+
+1. Peters, K., & Steinberg, P. (2019). [The ocean in excess: Towards a more-than-wet ontology.](https://doi.org/10.1177/2043820619872886) *Dialogues in Human Geography*, 9(3), 293-307.
+2. Rothe, D. (2020). [Jellyfish encounters: science, technology and security in the Anthropocene ocean.](http://dx.doi.org/10.1080/21624887.2020.1815478) *Critical Studies on Security*, 8(2), 145-159.
+3. Hayward, E. (2012) [Sensational Jellyfish: Aquarium Affects and the Matter of Immersion.](http://dx.doi.org/10.1215/10407391-1892925) *differences*, 23, 161-196.
+
+
+
+---
 ![alt text](firstunderwaterselfie.png)
 
 # [Sign up!](https://tinyurl.com/beyondterra)

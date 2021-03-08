@@ -64,6 +64,16 @@ BEYT is a [Cambridge AHRC-DTP](https://www.ahrcdtp.csah.cam.ac.uk/) Research Gro
 2. Rothe, D. (2020). [Jellyfish encounters: science, technology and security in the Anthropocene ocean.](http://dx.doi.org/10.1080/21624887.2020.1815478) *Critical Studies on Security*, 8(2), 145-159.
 3. Hayward, E. (2012) [Sensational Jellyfish: Aquarium Affects and the Matter of Immersion.](http://dx.doi.org/10.1215/10407391-1892925) *differences*, 23, 161-196.
 
+**Further readings**
+
+1. Weisberger, M. (2021). [Stressful animation shows blue whale dodging hundreds of ships while trying to feed.](https://www.livescience.com/whale-stress-animation.html) *Live Science*.
+2. Lewis, D. (2015). [This Starfish-Killing Robot Could Help Save The Great Barrier Reef.](https://www.smithsonianmag.com/smart-news/starfish-killing-robot-could-save-great-barrier-reef-180956513/) *Smithsonian Magazine*.
+3. Blackwell, S. B. (2021). [There is no escaping underwater noise.](https://feralatlas.supdigital.org/poster/there-is-no-escaping-underwater-noise) *Feral Atlas*.
+4. Buttacavoli, M., & McPherson, G. (2021) [Cargo ship noise jeopardizes ocean life.](https://feralatlas.supdigital.org/poster/cargo-ship-noise-jeopardizes-ocean-life) *Feral Atlas*.
+5. Safina, C. (2015). [Beyond Words. What Animals Think and Feel.](https://us.macmillan.com/books/9780805098884) macmillan: New York, NY.
+6. Scott, J. C. (2010). [*The Art of Not Being Governed. An Anarchist History of Upland Southeast Asia.*](https://yalebooks.yale.edu/book/9780300169171/art-not-being-governed) Yale University Press: New Haven, CT.
+7. Neimanis, A. (2017). [*Bodies of Water. Posthuman Feminist Phenomenology.*](https://www.bloomsbury.com/uk/bodies-of-water-9781474275392/) Bloomsbury: London.
+8. Young, E. (2019). [No One Is Prepared for Hagfish Slime.](https://www.theatlantic.com/science/archive/2019/01/hagfish-slime/581002/) *The Atlantic*.
 
 
 ---

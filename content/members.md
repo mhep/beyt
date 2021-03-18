@@ -7,6 +7,7 @@ title = "Members"
 * [Maximilian Gregor Hepach](https://hepach.org): mgh44@cam.ac.uk // [@climatephen](https://twitter.com/climatephen)
 
 ### Members:
+* Lane M. Atmore, Centre for Ecological and Evolutionary Synthesis, University of Oslo; Department of Archaeology, University of Cambridge
 * David Durand-Delacre, Department of Geography, University of Cambridge
 * Dylan Price, Faculty, of Music, University of Oxford
 * Tom Simpson, Department of Geography, University of Cambridge
